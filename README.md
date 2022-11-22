@@ -17,4 +17,4 @@
 
 # [Proyectos en cual estoy]
 
-- Actualmente estoy de manera independiente en el desarrollo del sistema operativo Gnu/LionLinux participo como miembro del grupo de redacción el cual se encarga de crear las guias necesarias para el uso del mismo sistema operativo. 
+- Actualmente estoy sin partipación de proyectos que tengan que ver con el desarrollo de aplicaciones web o no web 
